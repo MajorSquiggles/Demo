@@ -1,2 +1,3 @@
 # Demo
-Demo repo to learn git/github
+
+A testbed for learning git/github.
